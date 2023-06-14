@@ -1,4 +1,6 @@
-# Fabric Example Mod
+# Minecraft Loot Expanded
+
+This mod aims to add some well needed incentive to explore the different biomes and dungeons by adding new gear, weapons, and tools around the world. Takes some inspiration from terraria's progression and the various bits of gear you collect in that game.
 
 ## Setup
 
