@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+      "AAA",
+      " B ",
+      " B "
+    ],
+    "key":
+    {
+      "A":
+      {
+        "item": "lootexpanded:thadonium_ingot"
+      },
+      "B":
+      {
+        "item": "minecraft:stick"
+      }
+    },
+    "result":
+    {
+      "item": "lootexpanded:thadonium_pickaxe",
+      "count": 1
+    }
+  }
+  

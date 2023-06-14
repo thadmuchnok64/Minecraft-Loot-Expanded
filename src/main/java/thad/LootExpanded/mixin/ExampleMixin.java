@@ -1,4 +1,4 @@
-package com.example.mixin;
+package thad.LootExpanded.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
