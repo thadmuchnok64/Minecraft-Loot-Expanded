@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "lootexpanded",
-	"version": "${0.0.1}",
+	"version": "${0.0.2}",
 	"name": "LootExpanded",
 	"description": "This mod aims to fix progression issues with Minecraft and add more depth to certain biomes and dungeons. Inspired by Terraria's progression, adds a number of new weapons, tools and gear to find in naturally spawning chests.",
 	"authors": [

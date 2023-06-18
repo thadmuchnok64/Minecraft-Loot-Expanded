@@ -1,4 +1,8 @@
 {
     "item.lootexpanded.thadonium_ingot": "Thadonium Ingot",
-    "item.lootexpanded.thadonium_pickaxe": "Thadonium Pickaxe"
+    "item.lootexpanded.thadonium_pickaxe": "Thadonium Pickaxe",
+    "item.lootexpanded.flintlock_pistol": "Flintlock Pistol",
+    "item.lootexpanded.firearm_pellet": "Firearm Pellet"
+
+
 }

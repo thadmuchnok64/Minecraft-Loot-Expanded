@@ -1,0 +1,8 @@
+{
+    "flintlock_shot":{
+        "subtitle": "subtitles.lootexpaned.flintlock_shot",
+        "sounds": [
+            "lootexpanded:flintlock_shot"
+        ]
+    }
+}
